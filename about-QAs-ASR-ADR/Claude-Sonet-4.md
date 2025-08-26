@@ -123,14 +123,14 @@ graph LR
 - Make them easily discoverable and searchable
 
 ## Quality Attribute Scenarios Template
-
+```markdown
 **Source**: Who/what generates the stimulus
 **Stimulus**: The condition that affects the system
 **Environment**: System state when stimulus occurs
 **Artifact**: Part of system affected
 **Response**: Activity after stimulus arrival
 **Response Measure**: Measurable criteria for response
-
+```
 
 **Example**:
 - **Source**: User
